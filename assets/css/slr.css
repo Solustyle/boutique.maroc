@@ -1,5 +1,4 @@
 
-
 */
 
 /* ---------------------------------------------
@@ -103,6 +102,11 @@ p {
 img {
   width: 100%;
   overflow: hidden;
+}
+
+header, h5{
+  font-weight: bold;
+  color: white;
 }
 
 /* 
