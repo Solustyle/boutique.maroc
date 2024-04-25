@@ -1209,6 +1209,12 @@ Team Style
 }
 
 
+.team-member1{
+  display: inline-block;
+  align-content: center;
+}
+
+
 /* 
 ---------------------------------------------
 Testimonials Style
